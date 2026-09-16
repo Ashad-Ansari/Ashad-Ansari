@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ashad Ansari 🖐🏻
 
-<!--
-**Ashad-Ansari/Ashad-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Business & Data Analyst passionate about turning data into meaningful business insights.
 
-Here are some ideas to get you started:
+##  🛠 SKILLS
+- Python
+- SQL
+- Excel
+- Power Bi
+- tableau
+- Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🎯🎯 Currently
+- Building practical data analytics projects.
+- Strengthening SQL and Python Skills.
+- Preparing for Business & Data analyst roles.
+
+- ## 📊📋 Projects
+
+- 🐍 Python Sales Performance Analysis — Analyzed 9,994 sales records using Python, Pandas and NumPy. Performed data cleaning, exploratory data analysis and visualization to identify sales, profit, discount and category-level insights.
+
+- 📈 Customer Behaviour Analysis — Analyzed 3,900 customer records using Python for data cleaning and preparation, SQL for business questions and data analysis, and Power BI to create an interactive dashboard and generate actionable insights.
