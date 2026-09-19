@@ -23,4 +23,4 @@ Aspiring Business & Data Analyst passionate about turning data into meaningful b
 
 - 📈 Customer Behaviour Analysis — Analyzed 3,900 customer records using Python for data cleaning and preparation, SQL for business questions and data analysis, and Power BI to create an interactive dashboard and generate actionable insights.
 
-🔗-https://github.com/Ashad-Ansari/Customer-Shopping-Behavior.csv/blob/main/README.md
+🔗-https://github.com/Ashad-Ansari/Customer-Shopping-Behavior.csv
